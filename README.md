@@ -9,4 +9,4 @@ Contact information:
 Madison M. Douglas
 madisond@mit.edu / mmdouglas@berkeley.edu
 
-These folders include functions to set up and run models as well as scripts to reproduce figures 4 - 11 in the manuscript. All input variables and units are described at the top of each script. Some figure plotting functions require inputs from previous scripts, so we recommend running the models for each figure and plotting them in order.
+These folders include functions to set up and run models as well as scripts to reproduce figures 4 - 11 in the manuscript. All input variables and units are described at the top of each script. Some figure plotting functions require inputs from previous scripts, so we recommend running the models for each figure and plotting them in order using script "run_all_files.m"
